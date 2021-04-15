@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+/* textarea#styled {
+	width: 600px;
+	height: 120px;
+	border: 10px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-image: url(bg.gif);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+} */
+body {
+	font-size: 67.5%;
+	font-family: Tahoma, sans-serif;
+}
+
+p, li {
+	font-size: 1.4em;
+}
+
+h1 {
+	font-size: 2.1em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+#page-wrap {
+	margin: 20px auto;
+	width: 750px;
+}
+
+textarea{
+ 
+                width: 555px;
+ 
+                font-size: 14px;
+ 
+                padding: 10px;
+ 
+                line-height: 17px;
+ 
+                border-radius: 5px;
+ 
+                border: 1px solid #aaaaaa;
+                
+                border-width: 10px;
+ 
+}
